@@ -19,6 +19,13 @@ yarn start
 
 so that it runs at  http://localhost:3000
 
+To try the app out, login with this username and password:
+
+```
+username: test
+password: testtest
+```
+
 
 
 ### Application Features
